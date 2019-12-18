@@ -93,9 +93,7 @@ Prior to this course, my understanding of statistics extended only just past the
 
 ***
 
-Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
-
-Predominantly learing to operate a coding interface such as RStudio was a huge accomplishment in my eyes. I've often distanced myself from computers and coding sounded like the most gruling task I had ever heard of. I also feel considerably better about basis statistical analysis that I had worked with previosuly such as anova and paried T test, but never truly understood how they operated. 
+Predominantly learing to operate a coding interface such as RStudio was a huge accomplishment in my eyes. I've often distanced myself from computers and coding sounded like the most gruling task I had ever heard of. I also feel considerably better about basis statistical analysis that I had worked with previosuly such as anova and paried T test, but never truly understood how they operated. Learning to code properly with good annotations and dialog is another critical componet of what I see myself retaining for the future.
 
 ***
 
@@ -103,9 +101,8 @@ Predominantly learing to operate a coding interface such as RStudio was a huge a
 
 ***
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
-Although I did not participate in the peer commentary aspect of this class I recognize the value it held by providing  reference information to the coder and reader about operations. The Group Project was in my opion the best assignment of this course. Working with Ena and Nicola on a project that stretched each of our capacities to do compute information is this foreign manner was a perfect learning environment. 
+Although I did not participate in the peer commentary aspect of this class I recognize the value it held by providing an interface between learing away from formal instruction. The Group Project was in my opion the best assignment of this course. Working with Ena and Nicola on a project that stretched each of our capacities to do compute information is this foreign manner was a perfect learning environment.
+Anytime one of us cam across problems we could reference one another and my learing was exponential faster than other components of the course. 
 
 ***
 
@@ -113,9 +110,7 @@ Although I did not participate in the peer commentary aspect of this class I rec
 
 ***
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
-Of greatest lasting value to myself, I appreciate that R and biostatistics 
+I think understanding that it is ok that i might not fully understand a statistical process or method of coading is a large load off of my chest. Watching you sometime flaunder looking for the right code or sloution to the problem gave a better appreciation for how i can and will implement R in the future.
 
 ***
 
@@ -123,6 +118,6 @@ Of greatest lasting value to myself, I appreciate that R and biostatistics
 
 ***
 
-<br><center>[insert letter grade here]</center><br>
+C. I started with no coading experience prior to this course and feel that i progressed to a point that self learing and practice is all i will need to become truly proficient in the program. The statistics and coading language will become more natural with time. Due to this and the percieved effor that I attempted to make with this course, although failing at times, makes me feel like i have sucessfuly tackled this project to the point where i will be self sufficient for the future. I believe I received a grade of a C for competency and commitment to the course. 
 
 ***
