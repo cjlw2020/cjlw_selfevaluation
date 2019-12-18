@@ -1,0 +1,128 @@
+---
+title: "LockwoodC_F19_SelfEvaluation"
+author: "Clint Lockwood"
+date: "12/17/2019"
+output: html_document
+rmarkdown::html_document:
+    theme: cosmo
+---
+
+***
+
+###[Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html)
+###[Course Outline](https://fuzzyatelin.github.io/bioanth-stats/outline.html)
+###[Resources](https://fuzzyatelin.github.io/bioanth-stats/resources.html)
+###[Policies](https://fuzzyatelin.github.io/bioanth-stats/policies.html)
+###[Insurmountable Coding Problems](https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html)
+
+***
+
+<center>
+
+<font size="+2"><b>Up up and awayyyy</b></font></center><br>
+
+<center><p><img src="https://thumbs.gfycat.com/HappygoluckyRespectfulAngelfish-small.gif" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+Everything about this class was exaclty what I expected and hoped to wanted to learn about R. I was simpily unprepared to manage the hand that life delt me.
+
+</center>
+***
+
+##Instructions
+
+***
+
+Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (in the `fuzzyatelin.github.io/bioanth-stats/` folder) and answer the appropriate questions in the spaces provided. Once you've knitted the final file, please *email* the **html** version of that file to me with the name `[LastF]_F19_SelfEvaluation.html` (with `LastF` meaning your last name followed by your first initial, i.e., mine would be called `SchmittC_F19_SelfEvaluation.html`). I must receive this file by **Midnight of December 17, 2019**.
+
+***
+
+###Overall Impression
+
+***
+
+In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
+
+***
+
+###What were you asked to do?
+
+***
+*[Assignment 1](https://github.com/cjlw2020/AN597-Week-2-cjlw)
+* Assignment 2
+* Assignment 3
+* Assignment 4
+* Assignment 5
+*[Groupd Module](https://github.com/cjlw2020/GroupModule)
+*[Replication Assignment](https://github.com/cjlw2020/cjlw-data-replication-assignment)
+
+***
+
+###What did you accomplish?
+
+***
+
+* Assignment 1, complete on time
+* Assignment 2, incomplete
+* Assignment 3, incomplete
+* Assignment 4, incomplete
+* Assignment 5, incomplete
+* Groupd Module, complete on time
+* Replication Assignment, complete on time
+
+***
+
+###How well did you accomplish them?
+
+***
+
+I regret being unable to complete all the provided materials, assignments, and contributions to peer commentary as anyone would given my circumstnace. I have already explained my semester to you and there is no need to do so again but I do feel that I gave everything I had left to this course. The best example of my work is provided in the Group Module. I worked for many hours to provide most of the code for part 1 of the module. 
+
+***
+
+###How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+Prior to this course, my understanding of statistics extended only just past the basics of introductory college stats. I had worked with information gathered from field research and applied mathmatical equations to variables provided to me in controled circumstances. This course was my first experience having to look at a data set and develop analysis that would fit the data. It's still a foreign concept to me but after working through this class and GE505 "Introduction to Graduate GIS" I have a much better grasp of how this side of research works. 
+
+***
+
+###What did you learn from all this?
+
+***
+
+Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
+
+Predominantly learing to operate a coding interface such as RStudio was a huge accomplishment in my eyes. I've often distanced myself from computers and coding sounded like the most gruling task I had ever heard of. I also feel considerably better about basis statistical analysis that I had worked with previosuly such as anova and paried T test, but never truly understood how they operated. 
+
+***
+
+###How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+Although I did not participate in the peer commentary aspect of this class I recognize the value it held by providing  reference information to the coder and reader about operations. The Group Project was in my opion the best assignment of this course. Working with Ena and Nicola on a project that stretched each of our capacities to do compute information is this foreign manner was a perfect learning environment. 
+
+***
+
+###What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+Of greatest lasting value to myself, I appreciate that R and biostatistics 
+
+***
+
+###Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>[insert letter grade here]</center><br>
+
+***
